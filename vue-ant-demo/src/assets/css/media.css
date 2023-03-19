@@ -1,0 +1,15 @@
+body {
+  font-family: SimHei !important;
+  letter-spacing: 0.01em;
+}
+.ant-form-item {
+  margin-bottom: 10px !important;
+}
+.ant-tabs-content {
+  height: 100%;
+}
+.weather {
+  color: gray;
+  cursor: pointer;
+  pointer-events: none;
+}
